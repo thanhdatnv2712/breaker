@@ -7,6 +7,8 @@
 // @match        *://*/*
 // @grant        none
 // @require http://code.jquery.com/jquery-latest.js
+// @updateURL https://github.com/thanhdatnv2712/breaker/raw/master/tampermonkey.user.js
+// @license MIT
 // ==/UserScript==
 
 // You are verified
